@@ -5,7 +5,7 @@
 
 全部是使用Go语言编写。
 
-#### code.google.com
+#### vendor/code.google.com/分支
 
 ##### [google/graphics-go](https://code.google.com/archive/p/graphics-go/)
 
@@ -13,7 +13,7 @@ Graphics library for Go
 
 An implementation of basic image manipulation operations in the Go programming language.
 
-#### vendor/github.com
+#### vendor/github.com/分支
 
 ##### [360EntSecGroup-Skylay](https://github.com/360EntSecGroup-Skylar/excelize)
 
@@ -159,14 +159,14 @@ FTP client package for Go
 
 A better way to marshal and unmarshal YAML in Golang
 
-##### (go-ego/cedar)[https://github.com/go-ego/cedar]
+##### [go-ego/cedar](https://github.com/go-ego/cedar)
 A go implemention of efficiently-updatable double-array trie
 
-##### (go-ego/gpy)[https://github.com/go-ego/gpy]
+##### [go-ego/gpy](https://github.com/go-ego/gpy)
 Go 语言汉字转拼音工具
 
 
-##### (go-ego/gse)[https://github.com/go-ego/gse]
+##### [go-ego/gse](https://github.com/go-ego/gse)
 
 Go efficient text segmentation; support english, chinese, japanese and other. Go 语言高性能分词
 
@@ -484,8 +484,7 @@ WMI for Go
 ##### [stretchr/objx](https://github.com/stretchr/objx)
 Go package for dealing with maps, slices, JSON and other data.
 
-##### [stretchr/testify
-](https://github.com/stretchr/testify)
+##### [stretchr/testify](https://github.com/stretchr/testify)
 A toolkit with common assertions and mocks that plays nicely with the standard library
 
 ##### [syndtr/goleveldb](https://github.com/syndtr/goleveldb)
@@ -517,6 +516,12 @@ XXTEA encryption algorithm library for Golang.
 
 ##### [zentures/cityhash](https://github.com/zentures/cityhash)
 Google CityHash in Go
+
+####  library/分支
+
+[kratos/pkg](https://github.com/bilibili/kratos/pkg/)的解压版。
+Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。
+
 
 --
 
